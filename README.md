@@ -1,2 +1,2 @@
 # PORTFOLIO
-Projetos desenvolvidos nas disciplinas do curso SI
+Projetos desenvolvidos baseados nos conteudos vistos nas disciplinas do curso de Sistemas de Informação
